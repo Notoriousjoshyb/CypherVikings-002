@@ -4,7 +4,7 @@
 
 Creator: dero1qypj3sctlt7mefhvdhrvrygj55m40ugl7ml2dukzypxdtd2agpgsjqq2v3n6h
 
-SCID: c9cf8eb6ca280a164e605d04ef5e9371c5c6a30eccc5f20e00c884c6b7ccf7dc
+SCID: b2e88471a90f23a0daf9d31c2e79386075aba14a2a4067354ca74756b42efd80
 
 ![Cover Art](https://github.com/Notoriousjoshyb/CypherVikings-002/blob/main/CypherViking-002-IC.png?raw=true)
 
